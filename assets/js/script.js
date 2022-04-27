@@ -1,0 +1,1 @@
+document.getElementById("project_1").addEventListener("click", location.replace("./assets/projects_and_homework/Project_1"));

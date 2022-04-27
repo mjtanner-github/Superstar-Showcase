@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>Matthew Tanner's Portfolio</title>
+        <link rel="stylesheet" href="./assets/css/normalize.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <link rel="icon" href="./assets/images/self.png">
+    </head>
+
+    <body>
+        <!--The header has 2 components: The name field and the nav list.-->
+        <header>
+            <!--Name-->
+            <span id="name">Matthew Tanner</span>
+            <!--Nav Links-->
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#About-Me">About Me</a>
+                    </li>
+                    <li>
+                        <a href="#Work">Work</a>
+                    </li>
+                    <li>
+                        <a href="#Contact-Me">Contact Me</a>
+                    </li>
+                    <li>
+                        <a href="./assets/documents/Resume.html">Résumé</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <!--Main Images-->
+        <div class="row">
+            <div class="col">
+                <!--Self-->  
+                <img class="header-img" src="./assets/images/self.jpg" alt="File not available.">
+            </div>
+            <div class="col">
+                <!--Coding Related Grapic-->
+                <div class="header-img-container">
+                    <img class="header-img" src="./assets/images/code-gce0b3923b_1920.jpg" alt="File not available.">
+                    <div>
+                        <p id="header-subtitle">Modeling My Newly Aquired Web Development Skills</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--The rest of the content is organized in a table.-->
+        <table id="Main">
+            <!--About Me-->
+            <tr id="About-Me">
+                <td class="label">
+                    <span class="section-title">About Me</span>
+                </td>
+                <td class="content">
+                    <div>    
+                        <p id = "about_me"> While not a native, I have lived in Georgia my entire life. 
+                        After a half of a military career, I completed a computer science degree at the University of Georgia.
+                        I am married and have 2 adult children. 
+                        One item on my "bucket list" items is to sail to the tip of South America.</p>                    
+                    </div>
+                </td>
+            </tr>
+            <!--Work-->
+            <tr>
+                <td class="label">
+                    <span class="section-title" id="Work">Work</span>
+                </td>
+                <td class="content">
+                    <div class="img-container" id="project_1">
+                        <a href="https://mjtanner-github.github.io/Project_1/">
+                            <img id="first-project-img" alt="Project 1" src="./assets/projects_and_homework/Project_1/assets/images/fig_1.jpg" style=width:55%>
+                        </a>
+                        <div>
+                            <p class="Project-Name">Email Random Info Footer</p>
+                            <p class="subtitle">Project 1</p>
+                            <button onclick="window.location.href='https://mjtanner-github.github.io/Project_1/';">Try It!</button>
+                            <button onclick="window.location.href='https://github.com/mjtanner-github/Project_1';">See the Github Files</buttton>
+                        </div>
+                    </div>
+                        <table> 
+                            <tr> 
+                                <td>
+                                    <div class="img-container" id="homework_5">
+                                        <a href='https://mjtanner-github.github.io/Homework-5-Tanner/index.html'>
+                                            <img alt="Homework 5" src="./assets/projects_and_homework/Homework-5-Tanner/assets/images/day_planner.jpg" style=width:75%>
+                                         </a>
+                                        <div>
+                                            <p class="Project-Name">Day Planner</p>
+                                            <p class="subtitle">Homework 5</p>
+                                            <button onclick="window.location.href='https://mjtanner-github.github.io/Homework-5-Tanner/index.html';">Try It!</button>
+                                            <button onclick="window.location.href='https://github.com/mjtanner-github/Homework-5-Tanner';">See the Github Files</buttton>
+                                        </div>
+                                    </div>
+                                </td>        
+                                <td>
+                                    <div class="img-container">
+                                        <a href='https://mjtanner-github.github.io/Homework_6_Tanner/index.html'>
+                                            <img alt="Homework 6" src="./assets/projects_and_homework/Homework-6-Tanner/assets/images/ac_2.png" style=width:75%>
+                                         </a>
+                                         <div>
+                                            <p class="Project-Name">Weather Dashboard</p>
+                                            <p class="subtitle">Homework 6</p>
+                                            <button onclick="window.location.href='https://mjtanner-github.github.io/Homework_6_Tanner/index.html';">Try It!</button>
+                                            <button onclick="window.location.href='https://github.com/mjtanner-github/Homework_6_Tanner';">See the Github Files</buttton>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr> 
+                            <tr>
+                                <td>
+                                    <div class="img-container">
+                                        <a href="./assets/images/wip.jpg">
+                                            <img alt="Project 4" src="./assets/images/4.jpg" style=width:100%>
+                                        </a>
+                                        <div>
+                                            <p class="Project-Name">Project 4</p>
+                                            <p class="subtitle">Subtitle goes here.</p>
+                                        </div>
+                                    </div>      
+                                </td>        
+                                <td>
+                                    <div class="img-container">
+                                        <a href="./assets/images/wip.jpg">
+                                            <img alt="Project 5" src="./assets/images/5.jpg" style=width:100%>
+                                        </a>
+                                        <div>
+                                            <p class="Project-Name">Project 5</p>
+                                            <p class="subtitle">Subtitle goes here.</p>
+                                        </div>
+                                    </div>
+                                </td> 
+                            </tr> 
+                        </table> 
+                </td>
+            </tr>
+            <!--Contact Me-->
+            <tr>
+                <td class="label">
+                    <span class="section-title" id="Contact-Me">Contact Me</span>
+                </td>
+                <td class="content">
+                    <p><pre><strong>email:</strong>&#0009 matthew.j.tanner@gmail.com</pre></p>
+                    <P><pre><strong>cell:</strong > &#0009 770.601.1955</pre></P>
+                    <p><pre><strong>usps:</strong>&#0009 P.O.Box 112<br>&#0009  &#0009 Good Hope, GA 30641</br></pre></p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
