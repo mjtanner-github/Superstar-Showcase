@@ -6,11 +6,12 @@ Exhibiting All My Newly Acquired Fullstack Programming Skills
 ## Introduction
 This is a capstone showcase student project intended to feature some coursework projects. 
 
-This assignment requires
-Updated portfolio featuring Project 1 and two exemplary homework assignments.
+## This assignment requires
 
-Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+### Updated portfolio featuring Project 1 and two exemplary homework assignments.
 
-Updated resume
+### Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
-Updated LinkedIn profile
+### Updated resume
+
+### Updated LinkedIn profile
