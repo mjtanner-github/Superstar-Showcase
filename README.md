@@ -6,11 +6,13 @@ Exhibiting All My Newly Acquired Fullstack Programming Skills
 ## Introduction
 This is a capstone showcase student project intended to feature some coursework projects. 
 
-## This assignment requires
+## Required Features
 
 ### Updated portfolio featuring Project 1 and two exemplary homework assignments.
 
-### Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+
+[### Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.](https://github.com/mjtanner-github)
+
 
 ### Updated resume
 
