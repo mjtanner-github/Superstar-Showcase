@@ -12,7 +12,7 @@ This is a capstone showcase student project intended to feature some coursework 
 
 ### [Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.](https://github.com/mjtanner-github)
 
+### [Updated resume](./assets/documents/Resume.html)
 
-### Updated resume
 
 ### Updated LinkedIn profile
