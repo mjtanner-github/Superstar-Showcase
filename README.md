@@ -8,8 +8,7 @@ This is a capstone showcase student project intended to feature some coursework 
 
 ## Required Features
 
-### Updated portfolio featuring Project 1 and two exemplary homework assignments.
-
+### [Updated portfolio featuring Project 1 and two exemplary homework assignments.](https://mjtanner-github.github.io/Superstar-Showcase/)
 
 ### [Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.](https://github.com/mjtanner-github)
 
