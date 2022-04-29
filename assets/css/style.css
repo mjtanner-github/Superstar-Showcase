@@ -203,6 +203,6 @@ button{
     text-align: justify;
     text-justify: inter-word;
 }
-a#github, a#linkedin {
+a#github, a#linkedin, a#resume {
     color:blue;
 }
