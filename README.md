@@ -14,5 +14,5 @@ This is a capstone showcase student project intended to feature some coursework 
 
 ### [Updated resume](https://docs.google.com/document/d/1on5x8YWjLTjC1mrfHSW9gA9Swpbqg9f3UTxgYO8rtT4/edit?usp=sharing)
 
-### [Updated LinkedIn profile](https://www.linkedin.com/in/matthew-tanner-b35b3b139//)
+### [Updated LinkedIn profile](https://https://www.linkedin.com/in/matthew-tanner-b35b3b139/)
 
