@@ -1,7 +1,7 @@
 # Superstar-Showcase
 Exhibiting All My Newly Acquired Fullstack Programming Skills
 
-![Title Screen](./assets/images/port.png)
+![Title Screen](./assets/images/port.jpg)
 
 ## Introduction
 This is a capstone showcase student project intended to feature some coursework projects. 
